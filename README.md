@@ -1,6 +1,6 @@
 # AI Agents Repository
 
-![AI Agents Repository Banner](https://i.ibb.co/9T4Yc2x/AI-Agents-Repository-Banner.png)
+![AI Agents Repository Banner](https://github.com/0xmetaschool/ai-agents/blob/main/screenshot.png?raw=true)
 
 Welcome to the **AI Agents Repository** by [Metaschool](https://metaschool.so/)! This is the ultimate collection of AI agents from developers around the globe. Share your own AI agent or discover new ones, complete with descriptions, features, and access links.
 
