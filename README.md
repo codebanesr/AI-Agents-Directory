@@ -1,8 +1,8 @@
-# AI Agents Repository
+# AI Agents Marketplace
 
-![AI Agents Repository Banner](https://github.com/0xmetaschool/ai-agents/blob/main/screenshot.png?raw=true)
+![AI Agents Marketplace Banner](https://github.com/0xmetaschool/ai-agents/blob/main/screenshot.png?raw=true)
 
-Welcome to the **AI Agents Repository** by [Metaschool](https://metaschool.so/)! This is the ultimate collection of AI agents from developers around the globe. Share your own AI agent or discover new ones, complete with descriptions, features, and access links.
+Welcome to the **AI Agents Marketplace** by [Metaschool](https://metaschool.so/)! This is the ultimate collection of AI agents from developers around the globe. Share your own AI agent or discover new ones, complete with descriptions, features, and access links.
 
 ## How to Submit Your AI Agent
 
@@ -71,7 +71,7 @@ Once your PR is submitted:
 
 ## Discover AI Agents
 
-Browse the [AI Agents Directory](https://metaschool.so/ai-agents) to explore all the amazing AI agents contributed by the community.
+Browse the [AI Agents Marketplace](https://metaschool.so/ai-agents) to explore all the amazing AI agents contributed by the community.
 
 ## Contributing
 
@@ -83,6 +83,5 @@ We welcome contributions from everyone! Feel free to:
 
 This repository is licensed under the [MIT License](LICENSE).
 
----
 
 Happy coding and innovating! 🚀
